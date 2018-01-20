@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15813" started-at="2018-01-20T05:22:31Z" finished-at="2018-01-20T05:22:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15813" started-at="2018-01-20T05:22:31Z" finished-at="2018-01-20T05:22:46Z">
+      <class name="com.tests.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@6f1fba17]" name="setup" is-config="true" duration-ms="9146" started-at="2018-01-20T00:22:31Z" finished-at="2018-01-20T00:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.tests.LoginTest@6f1fba17]" name="freeCrmTitleTest" duration-ms="49" started-at="2018-01-20T00:22:40Z" finished-at="2018-01-20T00:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrmTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginTest@6f1fba17]" name="tearDown" is-config="true" duration-ms="744" started-at="2018-01-20T00:22:40Z" finished-at="2018-01-20T00:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.LoginTest@6f1fba17]" name="setup" is-config="true" duration-ms="5020" started-at="2018-01-20T00:22:41Z" finished-at="2018-01-20T00:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freeCRMLogoImageTest()[pri:2, instance:com.tests.LoginTest@6f1fba17]" name="freeCRMLogoImageTest" duration-ms="116" started-at="2018-01-20T00:22:46Z" finished-at="2018-01-20T00:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCRMLogoImageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tests.LoginTest@6f1fba17]" name="tearDown" is-config="true" duration-ms="700" started-at="2018-01-20T00:22:46Z" finished-at="2018-01-20T00:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
